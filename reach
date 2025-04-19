@@ -15,9 +15,8 @@ end
 x = 100
 y = 100
 z = 100
-    Title = "avidissocoolfn";
-    Text = "madebyavid"; -- what the text says (ofc)
-    Duration = 3;
+        message = "avidistocool";
+        duration = 3;
 penis = Vector3.new(x,y,z)
 
 LP.Character.RightHand.Size = penis
