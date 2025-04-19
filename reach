@@ -12,9 +12,9 @@ if v:IsA("Seat") then
 v.Disabled = true
 end
 end
-x = 100
-y = 100
-z = 100
+x = 99
+y = 99
+z = 99
 
 
 penis = Vector3.new(x,y,z)
